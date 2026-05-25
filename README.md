@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/distant-heartbeat-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Distant Heartbeat Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-rhythm/) |
+| **Get License** | [Get a Licensing Quote for Distant Heartbeat Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/distant-heartbeat-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the rhythm when you pull me close
+> You are the secret that I want the most
+> A gentle touch under the neon light
+> You got my heartbeat echoing tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
